@@ -15,7 +15,7 @@ dependencies:
   path: ^1.8.2
   yatl:
     git:
-      url: https://github.com/HrX03/yatl
+      url: https://github.com/kingt0t/yatl
       path: yatl
 
 dev_dependencies:
